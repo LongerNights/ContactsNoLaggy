@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+
+# Decompiled Resonite source stays local (not redistributable)
+ref/
